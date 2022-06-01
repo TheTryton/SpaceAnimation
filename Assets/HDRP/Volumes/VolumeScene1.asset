@@ -399,13 +399,13 @@ MonoBehaviour:
   active: 1
   quality:
     m_OverrideState: 1
-    m_Value: 2
+    m_Value: 3
   enable:
     m_OverrideState: 1
     m_Value: 1
   length:
     m_OverrideState: 1
-    m_Value: 0.1
+    m_Value: 1
   opacity:
     m_OverrideState: 0
     m_Value: 1
@@ -414,7 +414,7 @@ MonoBehaviour:
     m_Value: 0.5
   maxDistance:
     m_OverrideState: 1
-    m_Value: 100
+    m_Value: 20
   minDistance:
     m_OverrideState: 1
     m_Value: 1
@@ -429,10 +429,10 @@ MonoBehaviour:
     m_Value: 0.2
   thicknessScale:
     m_OverrideState: 1
-    m_Value: 0.1
+    m_Value: 1
   m_SampleCount:
     m_OverrideState: 1
-    m_Value: 12
+    m_Value: 30
 --- !u!114 &2759069934644561995
 MonoBehaviour:
   m_ObjectHideFlags: 3
